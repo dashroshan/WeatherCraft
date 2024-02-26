@@ -1,5 +1,7 @@
 # WeatherCraft
 
+![](/screenshot.png)
+
 ## Run on expo
 
 ```
